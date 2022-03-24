@@ -1,0 +1,7 @@
+I spent quite a long time going through all the instructions for this week's practical.
+It's easy to read all through it, but quite a different thing when you start to do it by yourself.
+For a novice like me, things can go wrong in many ways, for example copying and saving files to a wrong place.
+Also, applying what you learned in the lecture to reality requires you to think flexibly and it takes time to get used to.
+I think one of the most important quanlities for learning programming is to have the courage to try new things, and to try again when things go wrong.
+Sometimes it also requires a bit of wild imagination to fix an error.
+Just combine what you've known, and try it out courageously. Very often the output will be surprising.
