@@ -15,7 +15,8 @@ plt.boxplot(marks,
             whiskerprops={'color':'blue'},
             capprops={'color':'blue'},
 		)
-plt.title('Marks')
+plt.title('The distribution of IBI1 practical marks')
+plt.xlabel('Marks for the eight IBI1 practicals') 
 plt.show()
 
 #Calculate the mean
@@ -25,5 +26,5 @@ for i in L:
 average=total/8
 print(average)
 
-#The average is 59.875, so Rob failed this ICA.
-#What a pity!
+#The average is 59.875, it was less than 60%, so Rob failed this ICA.
+
