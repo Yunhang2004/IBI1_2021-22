@@ -33,7 +33,7 @@ print("Percentage of identical amino acids:{:.2f}%".format(per*100))
 human & mouse:  1490,96.54%
 human & random: -351,2.77%
 mouse & random: -348,3.11%
-From these data, we can infer that evolutionarily closer proteins are encoded by similar genes.
+From these data, we can infer that evolutionarily closer proteins are encoded by similar genes. Human and mouse DLX5 proteins are evolutionarily close, and their genes are similar. The DLX5 protein is evolutionarily distant to the random protein, and their genes are largely different.
 
 '''
 
