@@ -11,5 +11,5 @@ while a<64:
 	if b==11:
 		print(b,a)
 		if a>=64:
-			print('When we have applied 12 straight cuts, there will be 67 pieces of pizza,which is enough for every student in IBI1')
+			print('When we have applied 11 straight cuts, there will be 67 pieces of pizza,which is enough for every student in IBI1')
 #Program finished! Let's enjoy our pizza! (crunch crunch crunch...)
