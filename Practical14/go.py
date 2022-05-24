@@ -3,7 +3,7 @@
 import xml.etree.ElementTree as ET
 import numpy as np
 import matplotlib.pyplot as plt
-tree = ET.parse("go_obo(1).xml")
+tree = ET.parse("go_obo.xml")
 root = tree.getroot()
 nodes = root.findall("term")
 print("The totle number of terms:",len(nodes))
