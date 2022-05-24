@@ -1,0 +1,2 @@
+# Plot the total number of COVID cases over time in South Korea, Kenya and Colombia.
+
