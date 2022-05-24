@@ -1,2 +1,4 @@
-# Plot the total number of COVID cases over time in South Korea, Kenya and Colombia.
+Question: How have new cases and total cases developed over time in Spain?
+Line number: from 46 on. 
+Discussion: The first new case in Spain was reported on 2020/1/20. From 2020/2/25, the number of new cases began to surge, and it increased rapidly over the days.
 
